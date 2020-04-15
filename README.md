@@ -13,7 +13,7 @@ aderir ou não ao serviço premium.
 ## Integrantes
 
 - [Americo Freitas](https://github.com/americofreitasjr)
-- [Irani Barbosa](https://github.com)
+- [Irani Barbosa](https://github.com/iranijunior)
 
 ## Comentários
 
