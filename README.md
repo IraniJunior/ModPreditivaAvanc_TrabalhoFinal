@@ -1,7 +1,8 @@
 # Modelagem Preditiva Avançada
 
 - [Preview da Versão Final](http://htmlpreview.github.io/?https://github.com/americofreitasjr/ModPreditivaAvanc_TrabalhoFinal/blob/master/Case_Waldata.html)
-
+- [Conclusão Americo](https://github.com/americofreitasjr/ModPreditivaAvanc_TrabalhoFinal/blob/master/conclusaoAmerico.MD)
+- [Conclusão Irani](https://github.com/americofreitasjr/ModPreditivaAvanc_TrabalhoFinal/blob/master/conclusaoIrani.MD)
 ## Trabalho de conclusão de disciplina
 
 A multinacional de varejo Waldata quer expandir a sua presença na América Latina e por isso decide firmar uma parceria com a FGV para desenvolver um modelo preditivo do
