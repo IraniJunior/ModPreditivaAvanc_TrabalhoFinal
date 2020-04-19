@@ -9,10 +9,12 @@ Neste trabalho, nós invertemos os nossos papéis habituais. Eu fiquei responsá
  
 A abordagem do problema e a estratégia a ser utilizada foi definida por nós a quatro mãos, em tempo real, normalmente a noite pelo Colab, com a discussão dos passos, codificação, testes e planejamento das próximas etapas definidas à medida que avançávamos.
  
-Este trabalho foi transformador para mim! Evoluí o meu nível como programador. Tive que me aprofundar nos códigos para superar as etapas do projeto, tomar decisões para equalizar o tempo disponível, o custo computacional e o resultado almejado. Percebi vários fatores que afetam direta e indiretamente o andamento do projeto, como tecnologia disponível, qualidade da base de dados, formas de abordagem do problema e a pressão para o cumprimento dos prazos. Utilizei diversas variações no tratamento da base de dados e parametrização dos modelos, até atingir o que consideramos ser o melhor resultado.
+Neste Trabalho evoluí o meu nível como programador. Tive que me aprofundar nos códigos para superar as etapas do projeto, tomar decisões para equalizar o tempo disponível, o custo computacional e o resultado almejado. Percebi vários fatores que afetam direta e indiretamente o andamento do projeto, como tecnologia disponível, qualidade da base de dados, formas de abordagem do problema e a pressão para o cumprimento dos prazos. Utilizei diversas variações no tratamento da base de dados e parametrização dos modelos, até atingir o que consideramos ser o melhor resultado. Eu e o Américo realizamos a análise dos resultados em conjunto.
  
-Agradeço a você e ao Barsotti por compartilharem tanta experiência e conhecimento, pelo entusiasmo que vocês nos transmitem e pela oportunidade de desenvolver um projeto inteiro de Data Science, do começo ao fim. Almejo ser um Cientista de Dados e vocês contribuíram muito para que isso aconteça.
+Agradeço a você e ao Barsotti por compartilharem tanta experiência e conhecimento, pelo entusiasmo que vocês nos transmitem e pela oportunidade de desenvolver um projeto inteiro de Data Science, do começo ao fim. Almejo ser um Cientista de Dados e vocês contribuíram muito para que esse meu sonho se realize.
  
 “... é uma ciência, mas também é uma arte!” - R. Lychowski,
+
+Links do trabalho:
 
 Obrigado por tudo!!!
